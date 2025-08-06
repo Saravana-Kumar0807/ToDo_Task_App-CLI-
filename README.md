@@ -68,6 +68,3 @@ Task added!
 
 Free to use and modify – no license restrictions.
 
-
-Let me know if you'd like this customized for your GitHub username/project name or expanded to include screenshots, versioning, or badges.
-```
