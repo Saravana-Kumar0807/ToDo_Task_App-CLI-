@@ -1,10 +1,4 @@
-Absolutely! Here's a more concise and user-friendly version of the `README.md` — great for beginners or a simple GitHub project.
 
----
-
-### 📄 `README.md`
-
-````markdown
 #  To-Do List Console App (Python)
 
 A simple, file-based To-Do List application that runs in the terminal. Perfect for beginners learning Python basics like lists, file handling, and CLI interaction.
